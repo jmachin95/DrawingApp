@@ -109,7 +109,7 @@ public class drawingApp extends JFrame{
 
     //Main method
     public static void main(String[] args) {
-        /*drawingApp newWindow = */ new drawingApp();
+        new drawingApp();
     }
     //End of main method
 }
